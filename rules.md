@@ -51,11 +51,36 @@ The Current Year's Cup Calendar can be found on the [Schedule](https://njttcup.c
 
 All races will be weighted equally.
 
-Points will be allotted from 20-1 for places 1-20.
+Points are awarded based on results posted to USA Cycling. Except when noted otherwise (e.g. State Championships), riders may not move categories following publishing of the final results to USA Cycling.
 
 If fewer than 20 riders participate in any event category, the points awarded shall remain unchanged and awarded as noted below for all participating riders who participate and score in the race.
 
 In the event of a tie score/time as determined by the USAC officials, the TT Cup points awarded for such placings representing the tied riders shall be aggregated and shared evenly amongst the tied riders. To score, a rider must not only register and start a race, but must also finish and be given a scored time. Any rider who “does not start”(DNS) or “does not finish” (DNF) shall not be awarded any points irrespective if the promoter includes the riders or bib number on the scoring sheets. A rider must finish with a scored time to be awarded TT Cup points.
+
+### Points Schedule
+
+| Place | Points |
+| --- | --- |
+| 1 | 20 |
+| 2 | 19 |
+| 3 | 18 |
+| 4 | 17 |
+| 5 | 16 |
+| 6 | 15 |
+| 7 | 14 |
+| 8 | 13 |
+| 9 | 12 |
+| 10 | 11 |
+| 11 | 10 |
+| 12 | 9 |
+| 13 | 8 |
+| 14 | 7 |
+| 15 | 6 |
+| 16 | 5 |
+| 17 | 4 |
+| 18 | 3 |
+| 19 | 2 |
+| 20 | 1 |
 
 ## 4.3 Junior Classes Excluded from Flanders and High Point
 
@@ -75,15 +100,15 @@ For State Aero TT the following clarifications are made:
 
 1. The NJBA will support five (5) year age groups for both Men and Women Masters. To qualify for a State Championship award, riders are required to race either their age group or Open (senior).
 2. If registration for any one age group does not meet a minimum of three (3) riders, that specific age group will be combined with the next younger age group for the purposes of designating a state champion. This rule may be waived for one or more age groups at the discretion of the NJBA Board with notification to riders prior to the event.
-3. Due to USAC's regulations regarding State Championships, there is no Category 4/5 State Championship field at the NJITT. For the purpose of TT CUP points, cat 4/5 riders will be permitted to ride in Open (senior) or their appropriate master’s age group. To determine TT CUP points, ALL cat 4/5 riders participating in the State Championship race regardless of group raced will be listed by time and CUP points assigned from that inclusive list of cat 4/5 racers.
+3. Due to USAC's regulations regarding State Championships, the provided categories do not match those of the NJ Time Trial Cup Series. For "Aero" categories, all riders are permitted to race in a State Championship category of their choosing and be scored in the NJ Time Trial Cup Series category they have already been awarded points. Should the State Championship be the rider's first race, they will be scored in the matching NJ Time Trial Cup Series category, or in the appropriate Open Aero category based on their license (TT Cat 4/5 or TT Cat 1/2/3/4/5).
 
 ## 4.7 Non-Aero / Eddy State Championship
 
-The EDDY is a non-standard, non- USA Cycling championship held by the NJBA to benefit our racers. The Eddy will be conducted utilizing the NJBA TT CUP non-aero rules with age groups at the discretion of both the NJBA and the EDDY promoter.
+The EDDY is a non-standard, non-USA Cycling championship held by the NJBA to benefit our racers. The Eddy will be conducted utilizing the NJBA TT CUP non-aero rules with age groups at the discretion of both the NJBA and the EDDY promoter.
 
 ### 4.8 Tie Breaker at Season End
 
-At season-end, in the event there are riders in the same Cup classification with the same number of total points, then ties are broken by totaling the number of 1st place finishes, then 2nd place finishes, then 3rd place finishes, etc. until a clear winner is established. This will apply to all categories in the NJ Time Trial Cup.
+At season-end, in the event there are riders in the same Cup classification with the same number of total points, then ties are broken by totaling the number of 1st place finishes, then 2nd place finishes, then 3rd place finishes, etc. until a clear winner is established. This will apply to all categories in the NJ Time Trial Cup Series.
 
 ## 4.9 Mandatory Dropped Race or Races
 
@@ -111,8 +136,6 @@ Unless an exception is permitted by the TT Cup Committee, online Registration mu
 2. A massed-start bicycle is a road or track bicycle that is legal in all events within the road or track discipline, rather than a bicycle that is restricted to particular events. Handlebars for massed-start bicycles may not have forearm supports nor handlebar extensions or attachments that point forward
 
 **Start Order & Numbering** – Will be at the Promoter’s discretion. Promoters will make every effort to keep race categories together for continuity. However, a promoter does reserve the right to make appropriate start order changes that may be necessary that day for volunteers, etc., and/or to keep the flow of the race appropriate.
-
-**Pre-Registration Only** - Riders shall be eligible for TT CUP points only in the category in which they pre-registered. With respect to Cup Points, no changes to classification will be permitted after start times are posted.
 
 **Time Gaps** - Promoters should have time gaps no less than 30 seconds. Suggestion: promoters will help themselves if, when creating start lists, they put a few (2 recommended) 30 second “blank slots” in between categories. This will help create a cushion and separate categories and avoid, for example, a junior being too overrun by a faster rider behind. As well, those gaps will ensure that if you’ve missed anyone, or have to make a race-day addition or exception, you have some slots you can fill last minute.
 
