@@ -61,11 +61,11 @@ In the event of a tie score/time as determined by the USAC officials, the TT Cup
 
 The promoters and townships involved have requested that Junior classes be excluded from the High Point and Flanders Time Trials for safety reasons. Thus, the Junior riders will have two less events comprising their TT Cup calendar (Their season will be 11 races with 2 drops). Again, to restate this important point, no Junior classes will be included at High Point or Flanders, and thus accordingly, no Junior shall receive any points for these events in those categories. Thus, Juniors will have a calendar equaling two less events than the adult categories.
 
-### 4.4 Out of State Riders May Compete in the Cup
+## 4.4 Out of State Riders May Compete in the Cup
 
 The TT Cup will allow point scoring from “out of state” riders who are registered on NJBA teams in good standing. It is the intent of the NJ Time Trial Cup Committee to attract more riders to our Series, and to preserve its appeal for years to come.
 
-### 4.5 Event Category Registration
+## 4.5 Event Category Registration
 
 At each race that is part of the TT Cup, all riders competing for the TT Cup Series must register in their respective TT Cup category at each race comprising the TT Cup with the possible exception of the New Jersey Individual Time Trial Championships, as noted below.
 
@@ -81,7 +81,7 @@ For State Aero TT the following clarifications are made:
 
 The EDDY is a non-standard, non- USA Cycling championship held by the NJBA to benefit our racers. The Eddy will be conducted utilizing the NJBA TT CUP non-aero rules with age groups at the discretion of both the NJBA and the EDDY promoter.
 
-### 4.8 Tie Breaker at Season End
+## 4.8 Tie Breaker at Season End
 
 At season-end, in the event there are riders in the same Cup classification with the same number of total points, then ties are broken by totaling the number of 1st place finishes, then 2nd place finishes, then 3rd place finishes, etc. until a clear winner is established. This will apply to all categories in the NJ Time Trial Cup.
 
