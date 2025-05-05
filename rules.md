@@ -18,7 +18,7 @@ The TT Cup Committee is comprised of the following Members.
 
 # Article III. Race Categories
 
-# 3.1 Race Categories
+## 3.1 Race Categories
 
 Current race categories in the TT Cup Series include:
 
